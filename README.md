@@ -41,6 +41,9 @@ jupyter notebook Pune_House_Price_Prediction.ipynb
 The model's performance is evaluated using cross-validation. Below are the accuracy scores from the model:
 [0.87729294, 0.87158074, 0.82825079, 0.89763339, 0.81068616]
 
+```
+
+
 These scores show the model's consistency and its ability to generalize across different data subsets.
 
 📝 Code Files
